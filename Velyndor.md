@@ -511,15 +511,15 @@ Your Legacy.**
 - Fully AGPL-3.0+ compliant system
 - Copyleft enforced for network deployments
 - Required attribution:
-  - Roxanne Ardary
-  - https://www.roxanneardary.com/
+  - Broduer
+  - https://aogamers.net/players/broduer
 
 ### Optional
 
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
-  - [https://roxanneardary.com/velyndor/](https://roxanneardary.com/velyndor/)
+  - https://aogamers.net/players/broduer
 
 ---
 
@@ -532,7 +532,7 @@ Please note the following:
 
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
-  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.  
+  **Broduer** and **https://aogamers.net/players/broduer**.  
 - Velyndor specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
